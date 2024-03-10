@@ -153,14 +153,6 @@
 			<artifactId>xml-security-impl</artifactId>
 			<version>1.0</version>
 		</dependency>
-	   	<dependency>
-   			 <groupId>com.sun</groupId>
-  			 <artifactId>tools</artifactId>
-    			 <version>17</version> <!-- Adjust version as per your JDK version -->
-    			 <scope>system</scope>
-    			 <systemPath>${java.home}/../lib/tools.jar</systemPath>
-		</dependency>
-
 
 		</dependencies>
 
